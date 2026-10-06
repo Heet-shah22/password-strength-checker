@@ -32,6 +32,7 @@ This repository contains the complete implementation, automated test suite, inte
 ### Option 1: 1-Click Launchers (Windows)
 - **Launch Interactive Web Simulation**: Double-click `run_simulation.bat`
 - **Run Section 11 Automated Test Verification**: Double-click `run_tests.bat`
+- **Push to GitHub**: Double-click `push_to_github.bat`
 - **Deploy to Google Firebase Hosting**: Double-click `deploy_google.bat`
 - **Deploy to Vercel**: Double-click `deploy_vercel.bat` (Live: `https://password-strength-checker-mit-wpu.vercel.app`)
 

@@ -1,7 +1,7 @@
 {
   "name": "password-strength-checker-mit-wpu",
   "version": "1.0.0",
-  "description": "Password Strength Checking Simulation System developed for MIT - World Peace University, CSE (Cyber Security and Forensics) by Ativeer Rajawat (Roll No. 35, PRN 1262243024).",
+  "description": "Password Strength Checking Simulation System developed for MIT - World Peace University, CSE (Cyber Security and Forensics) by Heet Shah (Roll No. 35, PRN 1262243024).",
   "main": "password_checker.js",
   "scripts": {
     "start": "node server.js",
@@ -22,6 +22,6 @@
     "hashcat-simulation",
     "heuristic-scoring"
   ],
-  "author": "Ativeer Rajawat (Roll No: 35 | PRN: 1262243024)",
+  "author": "Heet Shah (Roll No: 35 | PRN: 1262243024)",
   "license": "MIT"
 }

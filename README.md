@@ -2,7 +2,7 @@
 ## Department of CSE (Cyber Security and Forensics)
 ### College Project: PASSWORD STRENGTH CHECKING
 
-**Author**: Ativeer Rajawat  
+**Author**: Heet Shah  
 **Roll No**: 35  
 **PRN**: 1262243024  
 **Academic Year**: 2026–27  
@@ -53,7 +53,7 @@ Open **`http://localhost:3000`** (or double-click `index.html`) in any browser.
    - Live character-by-character analysis with dynamic meter and educational badges (Very Weak, Weak, Medium, Strong, Very Strong).
    - Scoring criteria audit checklist showing exact points added or subtracted per Table 7.1.
    - Section 4.9 Target Personal Context Inspector (testing personal names, birth years, and college tags).
-   - 8 one-click presets from the report (`123456`, `password`, `qwerty`, `Password123`, `Password@123`, `Ativeer123`, `Welcome@2026`, `Rain!Cedar7Moon#42`).
+   - 8 one-click presets from the report (`123456`, `password`, `qwerty`, `Password123`, `Password@123`, `Heet123`, `Welcome@2026`, `Rain!Cedar7Moon#42`).
    - Print / Export official academic evaluation sheet formatted for faculty submission.
 2. **Section 11 Test Matrix (Tab 2)**:
    - Interactive verification table for TC01–TC10 with 1-click execution and pass/align status.
@@ -108,7 +108,7 @@ Both the Calibrated Engine and Literal Section 9 script are supported and verifi
 | **TC03** | `qwerty` | Keyboard pattern | Very Weak | 0 / 10 | **Very Weak** | ✓ PASS |
 | **TC04** | `Password123` | Common word + digits | Weak | 3 / 10 | **Weak** | ✓ PASS |
 | **TC05** | `Password@123` | Word + symbol + digits | Medium | 6 / 10 | **Medium** | ✓ PASS |
-| **TC06** | `Ativeer123` | Name + digits | Weak / Medium | 4 / 10 | **Weak** | ✓ PASS |
+| **TC06** | `Heet123` | Name + digits | Weak / Medium | 4 / 10 | **Weak** | ✓ PASS |
 | **TC07** | `Welcome@2026` | Common word + year | Medium | 6 / 10 | **Medium** | ✓ PASS |
 | **TC08** | `Aaa111!!!` | Repeated characters | Weak | 4 / 10 | **Weak** | ✓ PASS |
 | **TC09** | `abcDEF123` | Sequence + digits | Weak / Medium | 3 / 10 | **Weak** | ✓ PASS |
@@ -153,5 +153,5 @@ Ativeerrr/
 - **Institution**: MIT – World Peace University, Pune
 - **Department**: CSE (Cyber Security and Forensics)
 - **Project Topic**: Password Strength Checking
-- **Student**: Ativeer Rajawat (Roll No: 35 | PRN: 1262243024)
+- **Student**: Heet Shah (Roll No: 35 | PRN: 1262243024)
 - **Academic Year**: 2026–27

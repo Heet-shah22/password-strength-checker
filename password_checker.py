@@ -2,7 +2,7 @@
 MIT - WORLD PEACE UNIVERSITY
 Department of CSE (Cyber Security and Forensics)
 College Project Report: PASSWORD STRENGTH CHECKING
-Student: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
+Student: Heet Shah | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
 
 Implementation of Password Strength Checking Algorithm (Section 7.1, 9, 10, 11 & 12)
 """
@@ -284,7 +284,7 @@ def interactive_mode():
     print("=" * 70)
     print(" MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security and Forensics)")
     print(" COLLEGE PROJECT REPORT: PASSWORD STRENGTH CHECKING SIMULATION")
-    print(" Student: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024")
+    print(" Student: Heet Shah | Roll No: 35 | PRN: 1262243024")
     print("=" * 70)
     
     print("\nSelect Evaluation Algorithm:")

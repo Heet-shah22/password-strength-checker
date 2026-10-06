@@ -2,7 +2,7 @@
  * MIT - WORLD PEACE UNIVERSITY
  * Department of CSE (Cyber Security and Forensics)
  * College Project Report: PASSWORD STRENGTH CHECKING
- * Student: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
+ * Student: Heet Shah | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
  * 
  * Node.js CLI & Evaluation Engine (Section 7.1, 9, 10, 11 & 12)
  */
@@ -263,7 +263,7 @@ const TEST_CASES = [
   { id: "TC03", input: "qwerty", characteristics: "Keyboard pattern", expected: "Very Weak", reason: "Common keyboard sequence." },
   { id: "TC04", input: "Password123", characteristics: "Common word + digits", expected: "Weak", reason: "Predictable construction." },
   { id: "TC05", input: "Password@123", characteristics: "Word + symbol + digits", expected: "Medium", reason: "Diverse characters but predictable." },
-  { id: "TC06", input: "Ativeer123", characteristics: "Name + digits", expected: "Weak/Medium", reason: "Personal-name pattern." },
+  { id: "TC06", input: "Heet123", characteristics: "Name + digits", expected: "Weak/Medium", reason: "Personal-name pattern." },
   { id: "TC07", input: "Welcome@2026", characteristics: "Common word + year", expected: "Medium", reason: "Predictable word and year." },
   { id: "TC08", input: "Aaa111!!!", characteristics: "Repeated characters", expected: "Weak", reason: "Obvious repetition." },
   { id: "TC09", input: "abcDEF123", characteristics: "Sequence + digits", expected: "Weak/Medium", reason: "Character diversity but sequential structure." },
@@ -313,7 +313,7 @@ function runAllTests() {
   console.log("*".repeat(100));
   console.log("MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security and Forensics)");
   console.log("COLLEGE PROJECT REPORT: PASSWORD STRENGTH CHECKING (SECTION 11 VERIFICATION)");
-  console.log("Student: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024");
+  console.log("Student: Heet Shah | Roll No: 35 | PRN: 1262243024");
   console.log("*".repeat(100));
 
   // 1. Calibrated Engine Matrix

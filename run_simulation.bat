@@ -4,7 +4,7 @@ cls
 echo ======================================================================
 echo  MIT - WORLD PEACE UNIVERSITY ^| CSE (Cyber Security and Forensics)
 echo  PASSWORD STRENGTH CHECKING SIMULATION PLATFORM
-echo  Student: Ativeer Rajawat ^| Roll No: 35 ^| PRN: 1262243024
+echo  Student: Heet Shah ^| Roll No: 35 ^| PRN: 1262243024
 echo ======================================================================
 echo.
 echo Launching Interactive Simulation Dashboard...

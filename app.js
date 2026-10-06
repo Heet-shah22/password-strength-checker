@@ -1,7 +1,7 @@
 /**
  * MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security and Forensics)
  * College Project Report: PASSWORD STRENGTH CHECKING
- * Author: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
+ * Author: Heet Shah | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
  * 
  * Interactive Client Simulation Engine (JavaScript)
  */
@@ -32,7 +32,7 @@ const ACADEMIC_TEST_CASES = [
   { id: "TC03", input: "qwerty", characteristics: "Keyboard pattern", expected: "Very Weak", reason: "Common keyboard sequence." },
   { id: "TC04", input: "Password123", characteristics: "Common word + digits", expected: "Weak", reason: "Predictable construction." },
   { id: "TC05", input: "Password@123", characteristics: "Word + symbol + digits", expected: "Medium", reason: "Diverse characters but predictable." },
-  { id: "TC06", input: "Ativeer123", characteristics: "Name + digits", expected: "Weak/Medium", reason: "Personal-name pattern." },
+  { id: "TC06", input: "Heet123", characteristics: "Name + digits", expected: "Weak/Medium", reason: "Personal-name pattern." },
   { id: "TC07", input: "Welcome@2026", characteristics: "Common word + year", expected: "Medium", reason: "Predictable word and year." },
   { id: "TC08", input: "Aaa111!!!", characteristics: "Repeated characters", expected: "Weak", reason: "Obvious repetition." },
   { id: "TC09", input: "abcDEF123", characteristics: "Sequence + digits", expected: "Weak/Medium", reason: "Character diversity but sequential structure." },
@@ -513,7 +513,7 @@ function updateUI() {
   state.currentPassword = pwd;
   
   const context = {
-    name: DOM.ctxName ? DOM.ctxName.value : "Ativeer",
+    name: DOM.ctxName ? DOM.ctxName.value : "Heet",
     year: DOM.ctxYear ? DOM.ctxYear.value : "2026",
     org: DOM.ctxCollege ? DOM.ctxCollege.value : "MIT"
   };

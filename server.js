@@ -54,7 +54,7 @@ server.listen(PORT, () => {
   console.log(`================================================================`);
   console.log(`MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security & Forensics)`);
   console.log(`Password Strength Checking Simulation Server Active`);
-  console.log(`Author: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024`);
+  console.log(`Author: Heet Shah | Roll No: 35 | PRN: 1262243024`);
   console.log(`Server URL: http://localhost:${PORT}`);
   console.log(`================================================================`);
 });

@@ -2,7 +2,7 @@
 MIT - WORLD PEACE UNIVERSITY
 Department of CSE (Cyber Security and Forensics)
 College Project Report: PASSWORD STRENGTH CHECKING
-Student: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
+Student: Heet Shah | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
 
 Automated Test Suite for Section 11: Testing Table (TC01 - TC10)
 Verifies both:
@@ -51,7 +51,7 @@ TEST_CASES = [
     },
     {
         "id": "TC06",
-        "input": "Ativeer123",
+        "input": "Heet123",
         "characteristics": "Name + digits",
         "expected": "Weak/Medium",
         "reason": "Personal-name pattern."
@@ -89,7 +89,7 @@ TEST_CASES = [
 def run_matrix(mode_name, mode_flag):
     print("\n" + "=" * 105)
     print(f"MIT-WPU CSE (Cyber Security) | TEST MATRIX: {mode_name}")
-    print("Student: Ativeer Rajawat | Roll No: 35 | PRN: 1262243024")
+    print("Student: Heet Shah | Roll No: 35 | PRN: 1262243024")
     print("=" * 105)
     header = f"{'ID':<6} | {'Input':<20} | {'Characteristics':<24} | {'Expected':<18} | {'Score':<5} | {'Actual':<14} | {'Status'}"
     print(header)
@@ -121,7 +121,7 @@ def run_tests():
     print("  COLLEGE PROJECT REPORT VERIFICATION SUITE: SECTION 11 TESTING TABLES")
     print("  University : MIT - World Peace University, Pune")
     print("  Department : CSE (Cyber Security and Forensics)")
-    print("  Author     : Ativeer Rajawat (Roll No: 35 | PRN: 1262243024)")
+    print("  Author     : Heet Shah (Roll No: 35 | PRN: 1262243024)")
     print("*" * 105)
 
     # 1. Primary Calibrated Matrix (Matches 10/10)

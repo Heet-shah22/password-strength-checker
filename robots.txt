@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://password-strength-checker-mit-wpu.vercel.app/sitemap.xml

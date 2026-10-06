@@ -1,0 +1,27 @@
+{
+  "name": "password-strength-checker-mit-wpu",
+  "version": "1.0.0",
+  "description": "Password Strength Checking Simulation System developed for MIT - World Peace University, CSE (Cyber Security and Forensics) by Ativeer Rajawat (Roll No. 35, PRN 1262243024).",
+  "main": "password_checker.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node password_checker.js --test",
+    "test:all": "node password_checker.js --test-all",
+    "test:python": "python test_suite.py",
+    "deploy:google": "npx -y firebase-tools deploy --only hosting",
+    "deploy:vercel": "npx -y vercel --prod"
+  },
+  "keywords": [
+    "password-security",
+    "cyber-security",
+    "mit-wpu",
+    "password-strength-checker",
+    "shannon-entropy",
+    "nist-sp-800-63b",
+    "hashcat-simulation",
+    "heuristic-scoring"
+  ],
+  "author": "Ativeer Rajawat (Roll No: 35 | PRN: 1262243024)",
+  "license": "MIT"
+}

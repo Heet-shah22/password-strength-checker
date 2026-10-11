@@ -2,9 +2,8 @@
 title Push Password Strength Checker to GitHub
 cls
 echo ======================================================================
-echo  MIT - WORLD PEACE UNIVERSITY ^| CSE (Cyber Security and Forensics)
+echo  PASSWORD STRENGTH CHECKING SYSTEM
 echo  PUSH PROJECT TO GITHUB
-echo  Student: Heet Shah ^| Roll No: 35 ^| PRN: 1262243024
 echo ======================================================================
 echo.
 cd /d "%~dp0"
@@ -12,6 +11,9 @@ cd /d "%~dp0"
 git remote get-url origin >nul 2>&1
 if %ERRORLEVEL% equ 0 (
     echo Remote repository already configured.
+    echo Staging and committing changes...
+    git add -A
+    git commit -m "Update password strength checker" >nul 2>&1
     echo Pushing latest commits to GitHub...
     git push -u origin main
     goto done

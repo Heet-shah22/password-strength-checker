@@ -1,7 +1,7 @@
 /**
  * MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security and Forensics)
  * College Project Report: PASSWORD STRENGTH CHECKING
- * Author: Heet Shah | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
+ * Author: Heet Shah | PRN: 1262242929 | Academic Year: 2026-27
  * 
  * Interactive Client Simulation Engine (JavaScript)
  */

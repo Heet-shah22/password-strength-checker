@@ -2,7 +2,7 @@
  * MIT - WORLD PEACE UNIVERSITY
  * Department of CSE (Cyber Security and Forensics)
  * College Project Report: PASSWORD STRENGTH CHECKING
- * Student: Heet Shah | Roll No: 35 | PRN: 1262243024 | Academic Year: 2026-27
+ * Student: Heet Shah | PRN: 1262242929 | Academic Year: 2026-27
  * 
  * Node.js CLI & Evaluation Engine (Section 7.1, 9, 10, 11 & 12)
  */
@@ -313,7 +313,7 @@ function runAllTests() {
   console.log("*".repeat(100));
   console.log("MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security and Forensics)");
   console.log("COLLEGE PROJECT REPORT: PASSWORD STRENGTH CHECKING (SECTION 11 VERIFICATION)");
-  console.log("Student: Heet Shah | Roll No: 35 | PRN: 1262243024");
+  console.log("Student: Heet Shah | PRN: 1262242929");
   console.log("*".repeat(100));
 
   // 1. Calibrated Engine Matrix

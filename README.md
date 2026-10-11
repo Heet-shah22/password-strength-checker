@@ -3,8 +3,7 @@
 ### College Project: PASSWORD STRENGTH CHECKING
 
 **Author**: Heet Shah  
-**Roll No**: 35  
-**PRN**: 1262243024  
+**PRN**: 1262242929  
 **Academic Year**: 2026–27  
 **Degree**: B.Tech CSE (Cyber Security and Forensics)
 
@@ -133,7 +132,7 @@ Both the Calibrated Engine and Literal Section 9 script are supported and verifi
 
 ## 📁 Repository Structure
 ```
-Ativeerrr/
+Heet/
 ├── index.html            # Main web simulation dashboard & academic defense platform
 ├── styles.css            # Cyber dark glassmorphism design system & print styles
 ├── app.js                # Frontend simulation, Web Audio synthesizer & evaluation engine
@@ -153,5 +152,5 @@ Ativeerrr/
 - **Institution**: MIT – World Peace University, Pune
 - **Department**: CSE (Cyber Security and Forensics)
 - **Project Topic**: Password Strength Checking
-- **Student**: Heet Shah (Roll No: 35 | PRN: 1262243024)
+- **Student**: Heet Shah (PRN: 1262242929)
 - **Academic Year**: 2026–27

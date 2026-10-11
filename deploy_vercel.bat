@@ -2,9 +2,8 @@
 title Deploy Password Strength Checker to Vercel
 cls
 echo ======================================================================
-echo  MIT - WORLD PEACE UNIVERSITY | CSE (Cyber Security and Forensics)
+echo  PASSWORD STRENGTH CHECKING SYSTEM
 echo  DEPLOYING TO VERCEL PLATFORM
-echo  Student: Heet Shah | Roll No: 35 | PRN: 1262243024
 echo ======================================================================
 echo.
 cd /d "%~dp0"
